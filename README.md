@@ -4,7 +4,7 @@
 
     Go编程指南：
     
-    http://tour.studygolang.com/list
+    https://tour.go-zh.org/list
   
 ## 二、Go编程基础
         阅读官方文档
